@@ -1,6 +1,6 @@
 Tensorflow-Tutorial
 ===============
 
-Implementations for basic deep neural network architectures with tensorflow
+Implementations for basic deep neural network architectures using tensorflow
 
  
